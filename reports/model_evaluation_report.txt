@@ -1,0 +1,50 @@
+
+CUSTOMER PURCHASE PREDICTION
+MODEL EVALUATION REPORT
+
+----------------------------------------
+MODEL PERFORMANCE
+----------------------------------------
+
+Accuracy: 0.9250
+Precision: 0.9394
+Recall: 0.9688
+F1 Score: 0.9538
+
+
+----------------------------------------
+CLASSIFICATION REPORT
+----------------------------------------
+
+              precision    recall  f1-score   support
+
+           0       0.86      0.75      0.80         8
+           1       0.94      0.97      0.95        32
+
+    accuracy                           0.93        40
+   macro avg       0.90      0.86      0.88        40
+weighted avg       0.92      0.93      0.92        40
+
+
+
+----------------------------------------
+CONFUSION MATRIX
+----------------------------------------
+
+[[ 6  2]
+ [ 1 31]]
+
+
+----------------------------------------
+BUSINESS INTERPRETATION
+----------------------------------------
+
+This model predicts whether a customer is
+likely to make a purchase.
+
+The model achieved an accuracy of
+92.50% on the testing dataset.
+
+The model correctly identified
+96.88% of customers who actually
+made a purchase.

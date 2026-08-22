@@ -1,0 +1,6 @@
+age,income,website_visits,previous_purchases,discount,prediction,purchase_probability,prediction_label
+25,30000,2,0,5,0,0.0002486472181597248,Did Not Purchase
+35,65000,12,4,15,1,0.9942978199144492,Purchased
+45,80000,15,7,20,1,0.9999951808704743,Purchased
+55,50000,5,2,10,0,0.2422788152475235,Did Not Purchase
+30,40000,8,1,8,0,0.04747429277759243,Did Not Purchase
