@@ -228,7 +228,7 @@ Installation
 
 Clone the repository:
 
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/cpllearning894-ui/customer-purchase-prediction-v2
 
 Move into the project folder:
 
